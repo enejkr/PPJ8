@@ -34,3 +34,9 @@
 [2025-04-02 21:31:34] Removed Izdelek - ID: 2, Name: Primer Izdelka1, Cena: 22.0
 [2025-04-02 21:31:52] Removed Izdelek - ID: 1, Name: Primer Izdelka, Cena: 19.99
 [2025-04-02 21:31:52] Removed Izdelek - ID: 2, Name: Primer Izdelka1, Cena: 22.0
+[2025-04-02 21:35:09] Removed Izdelek - ID: 1, Name: Primer Izdelka, Cena: 19.99
+[2025-04-02 21:35:09] Removed Izdelek - ID: 2, Name: Primer Izdelka1, Cena: 22.0
+[2025-04-02 21:35:09] Removed Izdelek - ID: 1, Name: Primer Izdelka, Cena: 19.99
+[2025-04-02 21:35:24] Removed Izdelek - ID: 1, Name: Primer Izdelka, Cena: 19.99
+[2025-04-02 21:35:24] Removed Izdelek - ID: 2, Name: Primer Izdelka1, Cena: 22.0
+[2025-04-02 21:35:24] Removed Izdelek - ID: 1, Name: Primer Izdelka, Cena: 19.99

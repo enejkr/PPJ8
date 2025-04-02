@@ -27,6 +27,7 @@ fun main() {
     var trgovina = Trgovina()
     trgovina.parsexml("test.xml")
     trgovina.izdelki.add(Izdelek(4, "Primer Izdelka1", "osvezitev", "url", "opis", "slike", 20.0, 4.5, 10.0))
+    trgovina.removeIzdelek(1)
     trgovina.saveToXML("izdelki.xml", trgovina.izdelki)
 
     val documentBuilder = DocumentBuilderFactory.newInstance().newDocumentBuilder()
