@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<products>
+    <izdelek>
+        <id>1</id>
+        <ime>Primer Izdelka</ime>
+        <osvezitev>2025-04-02</osvezitev>
+        <url>https://www.primer-izdelek.com</url>
+        <opis>To je opis izdelka, ki ne presega 500 znakov.</opis>
+        <slika>iVBORw0KGgoAAAANSUhEUgAAAAUA...</slika>
+        <cena>19.99</cena>
+        <ocena>3.0</ocena>
+        <teza>500.0</teza>
+    </izdelek>
+    <izdelek>
+        <id>2</id>
+        <ime>Primer Izdelka1</ime>
+        <osvezitev>2025-04-02</osvezitev>
+        <url>https://www.primer-izdelek.com</url>
+        <opis>To je opis izdelka, ki ne presega 500 znakov.</opis>
+        <slika>iVBORw0KGgoAAAANSUhEUgAAAAUA...</slika>
+        <cena>22.0</cena>
+        <ocena>5.0</ocena>
+        <teza>5030.0</teza>
+    </izdelek>
+    <izdelek>
+        <id>4</id>
+        <ime>Primer Izdelka1</ime>
+        <osvezitev>osvezitev</osvezitev>
+        <url>url</url>
+        <opis>opis</opis>
+        <slika>slike</slika>
+        <cena>20.0</cena>
+        <ocena>4.5</ocena>
+        <teza>10.0</teza>
+    </izdelek>
+</products>

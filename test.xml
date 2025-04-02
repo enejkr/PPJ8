@@ -1,0 +1,29 @@
+<trgovina>
+    <izdelek>
+        <ID>1</ID>
+        <ime>Primer Izdelka</ime>
+        <osvezitev>2025-04-02</osvezitev>
+        <url>https://www.primer-izdelek.com</url>
+        <opis>To je opis izdelka, ki ne presega 500 znakov.</opis>
+        <slike>iVBORw0KGgoAAAANSUhEUgAAAAUA...</slike>
+        <cena>19.99</cena>
+        <kategorija-ID>10</kategorija-ID>
+        <color>Rdeča</color>
+        <ocena>3</ocena>
+        <taza>500</taza>
+    </izdelek>
+
+    <izdelek>
+        <ID>2</ID>
+        <ime>Primer Izdelka1</ime>
+        <osvezitev>2025-04-02</osvezitev>
+        <url>https://www.primer-izdelek.com</url>
+        <opis>To je opis izdelka, ki ne presega 500 znakov.</opis>
+        <slike>iVBORw0KGgoAAAANSUhEUgAAAAUA...</slike>
+        <cena>22</cena>
+        <kategorija-ID>10</kategorija-ID>
+        <color>Rdeča</color>
+        <ocena>5</ocena>
+        <taza>5030</taza>
+    </izdelek>
+</trgovina>
